@@ -1,0 +1,31 @@
+/* css */
+p{
+	color:red;
+	text-align: center;
+	text-transform: capitalize;
+	/* capitalize để viết hoa tất cả những chữ đầu */
+	/* lowercase: để viết thường *//* uppercase */;/*  uppercase 
+	để viết hoa */
+	text-indent: 10px; 
+	/* text-indent: 10px để chữ cách đầu dòng
+	hoặc lề 10px. */
+	text-shadow:2px 2px blue;
+	/* text-shadow đổ bóng cho chữ */
+	font-weight: 500;
+}
+h4{
+	text-indent: 10px;
+	text-decoration: line-through/* none *//* underline *//* overline */;
+	/* overline để gạch đầu trên  */
+	/* underline để gạch chân dưới */
+	/* none là không  gạch chân( mất gạch chân) */
+	/* line-through để gạch ngang chữ */
+	letter-spacing:5px;/* 
+	khoảng cách giữa các chữ trong từ và các từ với nhau */
+	word-spacing:20px; 
+	/* là khoảng cách giữa các từ trong câu */
+	line-height: 1.2; /* khoảng cách giữa các dòng */
+}	
+a{
+	text-decoration:  none;
+}
