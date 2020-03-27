@@ -1,0 +1,13 @@
+/* css */
+.list-item{
+	padding:10px;
+	margin-bottom: 5px;
+	border-left-style: dashed;
+	border-color:green;
+	border:1px solid;
+	/* border-left-width:10px; */
+	margin-left:10px;
+	border-width: 1px 1px 1px 10px;
+	border-radius: 10px;
+	/* border:1px solid black; */
+}

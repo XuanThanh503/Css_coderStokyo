@@ -1,0 +1,50 @@
+/* css */
+body{
+	/* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,39,1) 26%, rgba(0,212,255,1) 87%);
+	 */
+	 font-family: sans-serif;
+	 color: white;
+	 background-image: url('../img/bandem.jpg');
+	 background-size: cover;
+	 background-attachment: fixed;
+}
+.list-item{
+	padding: 10px;
+	margin-bottom: 10px;
+	border-width: 2px 2px 2px 3px;
+	border-radius: 10px;
+	background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,39,1) 26%, rgba(0,212,255,1) 87%);
+	text-indent: 10px;
+	/*  background:black; */
+}
+.list-item1{
+	
+	border:1px solid green;
+	padding:20px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	border-radius: 5px;
+	background-image:url('../img/bandem.jpg');
+	/* background-size: 20%;  giảm nó xuống còn 20% kích thước thực của nó.  */
+	/* background-size: contain; *//*  làm cho ảnh nằm trong  khung và lặp lại */
+	background-size: cover;/*  bao trọn khung */
+	background-repeat: repeat;
+	height: 100px;
+	background-position: 0 -250px;
+}
+.list-item2{
+	padding:20px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	border-radius: 5px;
+	background-image:url('../img/bandem.jpg');
+	/* background-size: 20%;  giảm nó xuống còn 20% kích thước thực của nó.  */
+	/* background-size: contain; *//*  làm cho ảnh nằm trong  khung và lặp lại */
+	background-size: cover;/*  bao trọn khung */
+	background-repeat: repeat;
+	height: 200px;
+	background-attachment: fixed;
+	background-position: 100px 0px;
+}

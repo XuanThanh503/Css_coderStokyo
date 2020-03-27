@@ -1,0 +1,11 @@
+/* css */
+p{
+	text-align: center;
+	text-transform:capitalize;
+	text-decoration:underline;
+	text-indent: 10px;
+	word-spacing:5px;
+	color: red;
+	text-shadow: 2px 2px black;
+	
+}
